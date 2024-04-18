@@ -1,1 +1,1 @@
-# motion-capture-hussar-sabre-moveset
+# Motion Capture Hussar Sabre Moveset
