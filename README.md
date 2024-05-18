@@ -7,12 +7,14 @@
 > Not all clips were cleaned yet!
 >
 > Note the `Status` of every clip
+>
+> Cleaning turned out to be really difficult, so even cleaned clips are not of the best quality :(
 
 ### 001
 
 Description: Fencing salute
 
-Status: :warning: `Raw`
+Status: :white_check_mark: `Cleaned`
 
 Timestamps:
 
@@ -22,7 +24,7 @@ Timestamps:
 
 Description: Assuming a fencing stance
 
-Status: :warning: `Raw`
+Status: :white_check_mark: `Cleaned`
 
 Timestamps:
 
